@@ -94,4 +94,4 @@ pickle.load(open(path, 'rb'))
 ## 🙋‍♂️ Author
 
 **JD Shah**
-📫 Feel free to connect on [LinkedIn](www.linkedin.com/in/jayamshah2278)
+📫 Feel free to connect on [LinkedIn]([www.linkedin.com/in/jayamshah2278](https://www.linkedin.com/in/jayamshah2278/))
